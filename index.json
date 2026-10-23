@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "title": { "en": "Saul's dsh plugins", "zh": "Saul 的 dsh 插件" },
+  "description": {
+    "en": "Small, focused DeepSeek Harness plugins: prompt enhancement and a Siri-style voice visualizer.",
+    "zh": "小而专的 DeepSeek Harness 插件：提示词增强与 Siri 风格语音跑马灯。"
+  },
+  "plugins": [
+    {
+      "name": "dsh-prompt-enhancer",
+      "title": { "en": "Prompt Enhancer", "zh": "提示词增强" },
+      "description": {
+        "en": "Rewrites your rough chat-box input into a clear, self-contained prompt before it reaches the model, and adds a one-click enhance button to the composer.",
+        "zh": "发送前把粗糙输入改写成清晰、自包含的提示词，并在输入框内提供一键增强按钮。"
+      },
+      "author": "saul-dsh",
+      "homepage": "https://github.com/saul-dsh/dsh-prompt-enhancer",
+      "repository": { "url": "https://github.com/saul-dsh/dsh-prompt-enhancer" },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishTimestamp": 1792750000,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/saul-dsh/dsh-prompt-enhancer",
+            "commit": "2c72aa7ef65cd69792056cbc018eaebc1b545464"
+          }
+        }
+      ]
+    },
+    {
+      "name": "dsh-siri-voice",
+      "title": { "en": "Siri Voice Visualizer", "zh": "Siri 语音跑马灯" },
+      "description": {
+        "en": "Siri-style glowing wave band above the composer while voice recording is active.",
+        "zh": "语音输入录音时，输入框上方浮现 Siri 风格的流光声波带。"
+      },
+      "author": "saul-dsh",
+      "homepage": "https://github.com/saul-dsh/dsh-siri-voice",
+      "repository": { "url": "https://github.com/saul-dsh/dsh-siri-voice" },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishTimestamp": 1792750000,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/saul-dsh/dsh-siri-voice",
+            "commit": "4f29d2a7414c25fe85ca3a090a7e6b588e4513dc"
+          }
+        }
+      ]
+    }
+  ]
+}
