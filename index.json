@@ -23,7 +23,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/saul-dsh/dsh-prompt-enhancer",
-            "commit": "2c72aa7ef65cd69792056cbc018eaebc1b545464"
+            "commit": "b6689db1522b303457b5071c496d60a46b6f97f3"
           }
         }
       ]
