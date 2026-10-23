@@ -32,8 +32,8 @@
       "name": "dsh-siri-voice",
       "title": { "en": "Siri Voice Visualizer", "zh": "Siri 语音跑马灯" },
       "description": {
-        "en": "Siri-style glowing wave band above the composer while voice recording is active.",
-        "zh": "语音输入录音时，输入框上方浮现 Siri 风格的流光声波带。"
+        "en": "Covers the composer with a Siri-style glowing wave layer while voice recording is active and replaces the built-in dot waveform with volume-driven bars.",
+        "zh": "语音输入录音时，用 Siri 风格流光声波覆盖输入框，并用随音量起伏的竖条接管内置声纹。"
       },
       "author": "saul-dsh",
       "homepage": "https://github.com/saul-dsh/dsh-siri-voice",
@@ -45,7 +45,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/saul-dsh/dsh-siri-voice",
-            "commit": "4f29d2a7414c25fe85ca3a090a7e6b588e4513dc"
+            "commit": "24091b9a0a67f2f7de61b1daaeec840ae0f32fa8"
           }
         }
       ]
