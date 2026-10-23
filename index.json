@@ -23,7 +23,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/saul-dsh/dsh-prompt-enhancer",
-            "commit": "b6689db1522b303457b5071c496d60a46b6f97f3"
+            "commit": "edac26ec7b1d3c75189fb69a98a9a76643fac58a"
           }
         }
       ]
@@ -45,7 +45,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/saul-dsh/dsh-siri-voice",
-            "commit": "24091b9a0a67f2f7de61b1daaeec840ae0f32fa8"
+            "commit": "6eb175cecc6cdb2204c39d09e6cb736269056be6"
           }
         }
       ]
